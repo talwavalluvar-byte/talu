@@ -1,0 +1,12 @@
+﻿id,name,parentid,Children
+1,,,4
+2,Gryffindor,1,3
+3,Slytherin,1,1
+4,Hufflepuff,1,1
+5,Ravenclaw,1,1
+6,Harry Potter,2,0
+7,Hermione Granger,2,0
+8,Ron Weasley,2,0
+9,Draoc Malfoy,3,0
+10,Cedric Diggory,4,0
+11,Luna Lovegood,5,0
